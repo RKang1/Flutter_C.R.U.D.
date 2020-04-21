@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "161381760170",
+    "firebase_url": "https://test-1691c.firebaseio.com",
+    "project_id": "test-1691c",
+    "storage_bucket": "test-1691c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161381760170:android:630ebf911ce1ad7912a4d3",
+        "android_client_info": {
+          "package_name": "kang.richard.fluttercrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161381760170-64q85g1gmv78s1oqhm8mnag17mj8eun2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuiMi78_n7NmkwsTEqzWcgNftW_FdAxdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161381760170-64q85g1gmv78s1oqhm8mnag17mj8eun2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
